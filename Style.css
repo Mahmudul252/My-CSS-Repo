@@ -15,22 +15,26 @@ h1{
  font-size: 50px;
 }
 .background{
-    background-color: red;
+    background-color: rgb(49, 21, 21);
+    border-radius: 5px;
+
 }
 #first-heading{
     color: green;
+    
 }
 #second-heading{
     color: red;
     text-align: right;
-    height: 10;
-    width: 5;
+    margin-left: 1050px;
+    padding: 10px;
 }
 #third-heading{
     color: blue;
     text-align: center;
-    height: 10;
-    width: 5;
+   margin-left: 550px;
+   margin-right: 550px;
+   padding: 10px;
 }
 .paragraph{
     text-align: center;
