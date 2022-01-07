@@ -1,0 +1,57 @@
+body{
+    background-color: orchid;
+}
+.border{
+    border: 5px solid green;
+    border-radius: 20px;
+    margin-left: 20px;
+    padding: 2%;
+
+}
+h1{
+    font-weight: 300;
+}
+.font-size{
+ font-size: 50px;
+}
+.background{
+    background-color: red;
+}
+#first-heading{
+    color: green;
+}
+#second-heading{
+    color: red;
+    text-align: right;
+    height: 10;
+    width: 5;
+}
+#third-heading{
+    color: blue;
+    text-align: center;
+    height: 10;
+    width: 5;
+}
+.paragraph{
+    text-align: center;
+}
+#old{
+    background-color: rgb(43, 16, 163);
+}
+#new{
+    font-weight: 700;
+}
+.color{
+    color: orangered;
+}
+.align{
+    height: 100px;
+    width: 200px;
+}
+input,button{
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+div{
+    margin-bottom: 10px;
+}
