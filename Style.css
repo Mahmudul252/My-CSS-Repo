@@ -75,3 +75,11 @@ h3{
 .hey{
     color: white;
 }
+.different{
+    background-color: blue;
+    border-radius: 15px;
+    border-left: 20px solid rgb(29, 148, 29);
+    text-align: center;
+    padding: 10px;
+    
+}
