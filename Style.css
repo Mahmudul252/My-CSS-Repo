@@ -1,8 +1,11 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(226, 166, 194);
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: 210%;
 }
 .border{
-    border: 5px solid green;
+    border: 5px solid rgb(85, 173, 125);
     border-radius: 20px;
     margin-left: 20px;
     padding: 2%;
@@ -20,17 +23,17 @@ h1{
 
 }
 #first-heading{
-    color: green;
+    color: red;
     
 }
 #second-heading{
-    color: red;
+    color: #e96666;
     text-align: right;
     margin-left: 1050px;
     padding: 10px;
 }
 #third-heading{
-    color: blue;
+    color: hsla(240, 100%, 50%, 0.856);
     text-align: center;
    margin-left: 550px;
    margin-right: 550px;
@@ -38,6 +41,7 @@ h1{
 }
 .paragraph{
     text-align: center;
+    color: white;
 }
 #old{
     background-color: rgb(43, 16, 163);
@@ -61,4 +65,13 @@ div{
 }
 .margin{
     margin-left: 600px;
+}
+h3{
+    display: block;
+}
+.travel{
+    display: inline;
+}
+.hey{
+    color: white;
 }
